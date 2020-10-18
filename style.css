@@ -1,0 +1,51 @@
+.p-main {
+    background-color: cornsilk;
+    color: darkblue;
+    border-radius: 10px;
+    font-family: "Ubuntu Mono" ;
+    padding-bottom: 10px;
+
+}
+#main-id {
+    background-color: #eaee6d;
+    border: 2px solid darkorange;
+    margin: 0 auto;
+}
+.b-1 {
+    color: #f80339;
+    font-family: Ubuntu;
+}
+body {
+    background-color: #c9c9c9;
+    /*align-content: center;*/
+}
+.main-pic {
+    height: 300px;
+    float: left;
+    margin: 0px 10px 0px 0px;
+    border-radius: 10px;
+}
+.flag-pic {
+    height: 11px;
+}
+.photos-pic {
+    height: 200px;
+    alignment: center;
+}
+h1 {
+    display: inline-block;
+    font-family: "Ubuntu Light";
+    margin-left: 10px;
+    line-height: 0;
+}
+.logo {
+    background-size: auto 50px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background: url("./images/logo.jpg") no-repeat 0px center/100%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
